@@ -1,2 +1,2 @@
-# sbp-mqs
+# SBP - MQS
 SBP Message Queue System
